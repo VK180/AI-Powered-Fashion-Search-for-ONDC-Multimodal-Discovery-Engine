@@ -20,7 +20,7 @@ All code is included in a single Jupyter notebook. To test the system:
 2. Upload it to [Google Colab](https://colab.research.google.com)
 3. Run all cells step-by-step
 4. Upload the dataset CSV files (`styles.csv` and `images.csv`) when prompted
-5. When running the voice or image-based search cells, make sure to upload an audio file (e.g., `.mp3`, `.ogg`) or an image (e.g., `.jpg`, `.png`) as required
+5. When running the voice or image-based search cells, make sure to upload an audio file (e.g., `.mp3`, `.ogg`) or an image (e.g.shirts,tshirts,watches,shoes etc.)(e.g., `.jpg`, `.png`) as required
 
 ### Final Notes
 This project shows how a combination of open-source NLP, CV, and speech models can deliver a unified, intelligent discovery engine.
