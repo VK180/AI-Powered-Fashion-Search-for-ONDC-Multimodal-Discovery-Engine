@@ -1,4 +1,5 @@
-##AI-Powered-Fashion-Search-for-ONDC-Multimodal-Discovery-Engine
+###AI-Powered-Fashion-Search-for-ONDC-Multimodal-Discovery-Engine
+
 This project is a multimodal smart product discovery engine developed for the ONDC . It enables users to search for fashion products using natural language, voice commands, or images. The goal is to create an intuitive and intelligent system that enhances product discoverability across ONDC-compatible seller platforms.
 
 ### Dataset
